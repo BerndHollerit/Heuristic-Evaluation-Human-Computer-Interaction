@@ -1,0 +1,117 @@
+Prüfer: Joerg Meyer
+Alter: 30
+Geschlecht: männlich
+Web Browser: Mozilla Firefox 1.0
+BS: Windows XP Prof
+Verbindung: Cable
+Farbtiefe: 32 Bit
+Monitor Auflösung: 1280 x 1024
+Monitor Grösse: 19" 
+Datum.: 08 April 2005
+Zeit.: 10:00 - 11:20
+ 
+ 
+Positives
+---------
+ 
+o Alle relevanten Shortcuts in der Startseite
+ 
+o vergrösserte Artikel-Fotos sind angenehm groß, Ausschnitt Vergrösserung möglich
+ 
+o Navigationsleiste immer verfügbar
+ 
+o "Infopoint" immer verfügbar
+ 
+o "Goodies" wie 3d Shop
+ 
+o umfangreiche Hilfe
+ 
+o allgemein gute Verlinkung über die ganze Website
+ 
+ 
+ 
+Probleme
+--------
+ 
+Überall:
+ 
+ 
+o großer rechter Rand bei verwendeter Auflösung
+ 
+o Zu viel Popups, die teilweise das relevante Browserfenster verdecken
+ 
+o JavaScript Popups teilweise in der Grösse nicht veränderbar
+ 
+o Preise tw. NUR als "Punkte" angeben. Was sind "Punkte"? -> Kein Link auf "Neckpot"
+ 
+o Anklicken der einzelnen Punkte in der Hilfeleiste "Job & Karriere  |  Bestellvorgang  |
+  Kontakt  |  Hilfe & Service"
+  reagiert in den einzelnen Punkten unterschiedlich. (Popup, Weiterleitung, neues 
+Fenster...)
+ 
+o In den Übersichtsseiten der Produktgruppen sind die Links "weniger Produkte auf dieser 
+Seite anzeigen"
+bzw. "mehr Produkte auf dieser Seite anzeigen"  irreführend, weil mit einerm ">>" 
+versehen und teilweise völlig überflüssig.  
+  
+ 
+ 
+ 
+Startseite:
+ 
+ 
+o Startseite ziemlich unstrukturiert. "Flohmarkt-Feeling" 
+ 
+o Der wichtige Link "Informationen rund ums Einkaufen" ist viel zu klein 
+ 
+o In "Informationen rund ums Einkaufen" ist die Übersicht nur bis 3. durchnummeriert, in 
+der Seite selbst jedoch bis 8., wobei
+allerdings 4. nicht vorkommt!
+ 
+ 
+ 
+KombiShop/Shops&Specials:
+ 
+ 
+o Bei Auswahl von "anprobieren" manchmal (nicht nachvollziehbar) folgende Warnung im 
+Popup: 
+Warning: implode(): Bad arguments. in /export/home/WWW/www.neckermann.at/htdocs/virtmod/
+virtmod.lib on line 101
+ 
+o "anprobieren" ist nur in der jeweiligen Übersicht von Shops&Specials anwählbar, in der 
+Detailansicht ist der Link als Symbol "getarnt", 
+der zu einem für den Inhalt zu kleinen, nicht skalierbaren Popup führt.
+ 
+o Popup, das nach "in den Warenkorb legen" eine Produktübersicht der ausgewählten 
+Kombination anzeigen soll, wird vom Popup-Blocker auch nach
+erteilen der Berechtigung für alle Popups blockiert, muss einzeln zugelassen werden.
+ 
+o Nach dem Übertragen der Kombination in den Warenkorb MÜSSEN die "Farben und die Grösse"
+ nochmals ausgewählt werden.
+Wird dies für ein Produkt gemacht, hat man danach von diesem 2 im Warenkorb, und für das 
+andere im Warenkorb befindliche Produkt
+ist es plötzlich nicht mehr nötig "Farben und die Grösse" auszuwählen! 
+ 
+ 
+ 
+TechnikWelt&Computer
+ 
+ 
+o Die Auswahl ist hier teilweise lächerlich klein, wie zum Beispiel bei DVD-Filme wirkt 
+es eher peinlich, für zwei Kinderfilm-DVDs eine
+eigene "Kategorie" zu machen.
+ 
+ 
+ 
+Bestellvorgang:
+ 
+ 
+o  Das Zusammenspiel mit dem "Kombishop" ist in Endeffekt technisch indiskutabel (siehe 
+oben).
+ 
+o Seite "Adresse" in Bezug auf alternative Anmeldungsmethoden über Kundennummer/
+Benutzername ODER Adresse unübersichtlich strukturiert.
+Unterschied von "MeinNeckermann Nutzer" und  "Besitzer einer Neckermann-Kundennummer" 
+ist nicht klar.
+ 
+o KEINE Kreditkartenzahlung möglich!!

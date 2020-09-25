@@ -1,0 +1,151 @@
+Prüfer: Stefan Mooslechner
+Alter: 30
+Geschlecht: Männlich
+Web Browser: MS Internet Explorer 6.0 / SP2 - Sicherheitsstufe: mittel
+Betriebssystem: Windows XP Prof / SP2
+Internetverbindung: 512 kbit/s (ADSL)
+Monitor Farbtiefe: 32 Bit
+Monitor Auflösung: 1280 x 960
+Monitor Größe: 21"
+Datum der Evaluierung: 08.04.2005
+Zeit der Evaluierung: 10.23 - 12.53
+
+
+
+
+Positives:
+----------
+
+o /Startseite/: Der Link <Sind Sie neu bei neckermann? Alle Informationen rund
+                ums Einkaufen!>.
+                Dieser Bereich ist sehr übersichtlich und informativ gestaltet,
+                und enthält viel weiterführende Links am Ende des Fensters.
+
+o /Sind Sie neu bei neckermann? Alle ... -> Modeberater für Sie -> Sie kennen 
+   Ihren Typ noch nicht - zur professionellen Typenberatung/: Eine eigene 
+                e-mail-adresse für eine individuelle Typberatung ist vorhanden.
+
+o /Startseite -> Infopoint/: Interaktive Presentation von diversen Produkt-
+                informationen. Sehr umfangreich und detailiert.
+
+o /Startseite -> Infopoint -> Großbild TV-Berater/: Sehr umfangreich und 
+                informativ (inkl. Begriffe von A-Z und FAQs)
+
+o /generell bei Produktbildern/: Eine detailansicht der Produkte ist 
+                möglich. [pic 40]
+
+o /beim legen eines Produktes in den Warenkorb/: Die Verfügbarkeit und die 
+                vorraussichtliche Lieferzeit wird geprüft. Wenn der Artikel 
+                nicht mehr lieferbar ist, wird ein Alternativprodukt 
+                vorgeschlagen. [pic 41]
+
+o /beim Bestellvorgang -> Adresseingabe/: Bei fehlerhafter bzw. unvollständiger
+                Eingabe der Daten werden bei der Fehlermeldung die 
+                entsprechenden Felder rot umrahmt. [pic 52]
+
+
+Negatives:
+----------
+
+o /Startseite/: Der Link <Sind Sie neu bei neckermann? Alle Informationen rund
+                ums Einkaufen!> ist sehr klein. Vorallem da diese Seite sehr
+                viele Informationen und Links enthält ist er leicht zu über-
+                sehen. [pic 01]
+
+o /Sind Sie neu bei neckermann? Alle .../: Bei den Links am oberen Rand sind
+                bei den ersten drei die Ordnungszahlen angegeben - bei allen
+                weiteren nicht mehr. [pic 02]
+
+o /Sind Sie neu bei neckermann? Alle ... -> Modeberater für Ihn -> Der kurze 
+   Weg zu aktuellen Produktempfehlungen .../: Wenn hier kein Anlaß angegeben
+                wird, erscheint die Fehlermeldung: "Keine passenden Produkte
+                ... zu Ihrem Anlaß gefunden". Diese Meldung ist in dem 
+                Zusammenhang falsch. [pic 03,04]
+
+o /wie oben/: Wird anschließend der "Zurück-Button" gedrück kommt man nicht
+                auf die Ausgangsseite zurück. Drückt man hier nochmals den
+                "Zurück-Button" kommt die Meldung "Diese Seite kann nicht
+                angezeigt werden". [pic 05, 06]
+
+o /wie oben/: Auch wenn alle Proportionen auf "normal" gesetzt werden, gibt
+                es nur für 2 von 10 möglichen Anlässen Bekleidungsvorschläge.
+                (Disco und Outdoor)
+
+o /Sind Sie neu bei neckermann? Alle ... -> DVD-Berater/: Design und Stil der
+                Flash-Animation weichen sehr stark vom allgemeinen Design der
+                Neckermann-Page ab. [pic 21]
+
+o /Sind Sie neu bei neckermann? Alle ... -> DVD-Berater/: Beim klick auf den
+                Link "Zum Neckermann DVD-Shop" ergibt sich auf den ersten Blick
+                keine Änderung. (Das DVD-Info-Fenster bleibt offen.) Erst wenn
+                man das Fenster manuell schließt, sieht man die Fehlermeldung
+                im Hauptfenster "Leider konnten keine passenden Inhalte ge-
+                funden werden". [pic 23, 24]
+
+o /Sind Sie neu bei neckermann? Alle ... -> Größenberater/: Das Fenster das 
+                hier neu geöffnet wird ist zu klein. Der Inhalt wird unten
+                abgeschnitten, und eine vertikale Bildlaufleiste ist vorhanden
+                obwohl dies nicht notwendig wäre, wenn das Fenster etwas höher
+                wäre. [pic 25]
+
+o /wie oben/: Obwohl alle Daten korrekt eingegeben wurden, erscheint im unteren
+                Bereich des Fensters die Meldung "Leider konnten nicht alle
+                Größen ermittelt werden". Es gibt aber keine Information
+                darüber welche Daten nicht ermittelt werden konnten bzw. warum
+                diese nicht ermittelt werden konnten. [pic 29]
+
+o /Startseite -> Neckpot/: Die schwarze Schrift auf dem dunkelrotem Hintergrund
+                ist sehr schwer lesbar. [pic 32]
+
+o /wie oben/: Die Information wie man Neckpot-Punkte sammelt steht erst am Ende
+                der Seite. [pic 33]
+
+o /Startseite -> Infopoint -> Möbelbezugsstoffe -> echtes Leder/: Die Detail-
+                ansicht der beiden oberen Möbel führt zu einer Fehlermeldung
+                im Hauptfenster. Diese ist wiederum aber erst lesbar, nachdem
+                das Ausgangsfenster manuell geschlossen wurde. [pic 35, 36]
+
+
+o /beim legen eines Produktes in den Warenkorb/: Die Verfügbarkeit und die 
+                vorraussichtliche Lieferzeit wird geprüft. Wenn der Artikel 
+                nicht mehr lieferbar ist, wird ein Alternativprodukt 
+                vorgeschlagen. Wenn man sich für dieses Alternativprodukt
+                entscheidet, bleibt allerdings das (nicht lieferbare) 
+                Originalprodukt ebenfalls im Warenkorb. [pic 42]
+
+
+Hauptproblem:
+-------------
+
+/Startseite -> Kombi-Shop/: 
+
+o Der "anprobieren-Link" unter den Produktfotos ist sehr klein gestaltet. 
+  Man wird hier dazu verleitet auf das Produktfoto zu klicken. Dies führ 
+  allerding dazu, dass man zur Produktionformation kommt. Wenn man dann auf 
+  den "Zurück-Button" klickt, sind allerdings lauter "neue" Produkte auf 
+  dieser Seite vorhanden. Auch wenn man auf die grafischen "Nicky- bzw. 
+  Nick-Button" drückt, kommt zwar ein Pop-Up das einem zum Kombi-Shop weiter-
+  leitet, allerdings wird der Artikel dort anschließend nicht angezeigt.
+
+o Wenn man eine "Kombination" in den Warenkorb legen will, blockt der 
+  Explorer ein Pop-Up.
+
+o Wenn man dieses Pop-Up zulässt, und man den Link "zur Kasse gehen" wählt,
+  dann erscheint der Warenkorb. Die bisher im Warenkorb befindlichen Waren 
+  sind zwar in der Tabelle vorhanden (Stückzahl 1.0), aber es ist nicht 
+  ersichtlich um welche Waren bzw. worum es sich überhaupt handelt, da keine 
+  Artikelinformationen angezeigt werden. 
+  Weiters erscheint bei den Artikeln aus der "Kombination" der Text 
+  "Bitte genben Sie hier noch Größe und Farbe ein. Klicken Sie bitte 
+  auf "ändern"". [pic 49]
+  Wenn man nun bei einem Artikel die Größe und die Farbe eingegeben hat, 
+  erscheint dieser Artikel zweimal im Warenkorb (einmal mit der Liefer-
+  auskunft und einemal mit der Bemerkung <"keine Lieferauskunft möglich">). 
+  Alle anderen Artikel aus der Kombination werden mit dem Vermerk 
+  <"Lieferauskunft nicht möglich"> angezeigt. Es gibt aber keinen Hinweis 
+  darauf, dass die Größe und die Farbe noch gewählt werden muß. Dafür werde 
+  die schon vorher im Warenkorb befindlichen Waren korrekt angezeigt. [pic 50]
+
+-> Der Kombi-Shop bietet eine sehr gute und sehr innovative Möglichkeit 
+   des Einkaufens an. Diese wird allerdings nur dann genutzt werden, wenn
+   die Technik die im Hintergrund abläuft auch reibungslos funktioniert.

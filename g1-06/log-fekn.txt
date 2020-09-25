@@ -1,0 +1,117 @@
+Prüfer: Ferdinand Knapitsch
+Alter: 26
+Geschlecht: male
+
+Web Browser: Opera Browser v7.51
+Betriebssystem: Windows XP Prof SP1
+Verbindung: Chello (Cable)
+Monitor Farbtiefe: 32 Bit
+Monitor Auflösung: 1280 x 1024
+Monitor Größe: 19" 
+
+Datum: 05 Apr 2005
+Zeit: 13:20 - 16:00
+
+
+
+Anmeldedaten
+------------
+
+User: usability_
+pw: test_
+
+
+Positives
+---------
+
+auf der gesamten Seite:
+
+- Die Navigation in den Unterkategorien wird durch eine 
+  zusätzliche Navigationsleise, in der der Benutzer immer
+  sieht wo er sich befindet, erweitert, sobald die Haupt-
+  seite verlassen wird.
+
+- Nette zusatz Optionen wie Online-Berater sind für den 
+  Kunden vorhanden. 
+
+- Der Kunde muß nicht angemeldet sein, um den Warenkorb 
+  füllen zu können!
+
+- Es gibt zu den Produkten recht aussagekräftige 
+  Informationen.
+
+- Beim Kontakt Formular muß die E-Mail Adresse NICHT 
+  angegeben werden.
+
+- In dem Service Bereicht Job & Karriere gibt es nette 
+  Features, wie "Richtig bewerben". 
+
+
+Probleme
+--------
+
+auf der gesamten Seite:
+
+- Frames werden verwendet - keine schöne Lösung. Besser
+  ohne Frames, da durch eine direkte Verlinkung in
+  "Unter-"seiten die Navigations- bzw. Menüleiste verloren 
+  geht.
+
+- Weißer Rand auf der rechten Seite, wenn die Auflösung
+  größer als 1024x768 verwendet wird.
+
+- Startseite ist unübersichtlich gestaltet: Sehr viel 
+  Information auf kleinem Raum - für einen Leihen sind 
+  dadurch viele Informationen schwer zu finden. Natürlich 
+  will Neckermann.at sehr viele Produkte gleich zu beginn
+  zeigen!
+
+- Bin ich in einer Unterseite (z.B. klick auf ein Angebot
+  auf der Hauptseite) kommt unter dem Hauptmenü die 
+  zusätzliche Navigationsleiste die auch einen "zurück" Button
+  enthält. Dieser Link  verweist aber auf die übergeordnete 
+  Kategorie und nicht wie der Name des Links sagt "zurück".
+
+- Der Warenkorb rechts oben auf der Seite enthält je nach 
+  Status 2 verschiedene Informationen:
+  "keine Artikel" und "Artikel enthalten" 
+  Es sollten aussagekräftigere Phrasen verwendet werden.
+  z.B.: Warenkorb leer bzw. "Anzahl" Artikel im Warenkorb.
+
+- Service Links wie Job & Karriere, Bestellvorgang, Kontakt, 
+  Hilfe & Support sowie die Links unter der Rubrik "Service" 
+  auf der rechten Seite öffnen nicht einheitlich entweder als 
+  Pop-Up oder eben im Hauptframe. 
+  Ich finde diese Pop-Ups sollten sich einheitlich im 
+  Hauptframe öffnen und mit einem "zurück" Link versehen 
+  werden.
+ 
+
+Registrierung:
+
+- Bei der Registrierung muß die E-Mail Adresse angegeben werden
+  und trotzdem bekommt der Kunde keine Bestätigungs E-Mail mit den 
+  angegebenen Benutzerdaten vom System.
+
+- Es ist nicht notwendig das Geburtsdatum anzugeben. Hat der Kunde
+  aber sein Passwort vergessen, muß er den Benutzernamen und das 
+  Geburtsdatum angeben, um das Passwort anfordern zu können. Wenn
+  er kein Geburtsdatum angibt, kann der Vorgang nicht durchgeführt
+  werden.
+
+- Wenn der Kunde angemeldet ist und seine persönlichen Größen 
+  im Größenberater anpassen möchte, sieht er ein Formular mit 
+  vorausgefüllten Komboboxen. Die Schriftgröße ist dabei sehr 
+  klein, sodaß Kunden mit schlechter Sehkraft nur schwer lesen
+  können, was da steht.
+
+
+Link Bestellvorgang:
+
+- Bei klick wird die Seite in einem neuen Fenster geöffnet. Ganz
+  unten gibt es einen weiterführenden Link mit Informationen zu den 
+  einzelnen Punkten. Diese Seite wird dann wieder in der Hauptseite
+  geöffnet. Verwirrung vorprogrammiert!
+
+
+mehr konnte ich leider nicht feststellen...

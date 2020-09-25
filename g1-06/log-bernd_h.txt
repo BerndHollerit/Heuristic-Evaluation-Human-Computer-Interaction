@@ -1,0 +1,64 @@
+Prüfer: Bernd Hollerit
+Alter: 20
+Geschlecht: Männlich
+Web Browser: Internet Explorer 6.0 SP2
+Betriebssystem: Windows XP Prof
+Internetverbindung: 768 kbit/s (ADSL)
+Monitor Farbtiefe: 32 Bit
+Monitor Auflösung: 1440 x 900
+Monitor Größe: 17" 
+Datum der Evaluierung: 05 Ap3 2005
+Zeit der Evaluierung: 20:58 - 22:54
+
+
+Positives
+---------
+
++ Erfrischende und doch dezente Farben, guter Kontrast
+
++ Produkte kann man weiterempfehlen
+
++ Nette Flash-Animationen https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&nav_id=10049510&mb_v301_ch=ad461 -> Heimkino Großbild-TV
+
++ Tolle 3D-Animationen: https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&nav_id=10051060&mb_v301_ch=96e11
+
++ Gute Suchfunktion
+
++ Umfangreiche Seite
+
++ Druckansicht von allen Artikeln
+
+
+Probleme
+--------
+
+- Zu hohes Banner "Willkommen in Babys Welt, wodurch vertikales Scrollen nötig wird
+
+- Sehr großer ungenützer Bereich für Widescreens, viel Information erst durch vertikales Scrollen ersichtlich
+
+- Geschäftsbedingungen aus dem Jahr 1999 https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&url=/info/wir/impressum/impressum.mb1&mb_v301_ch=868f6
+
+- Tote Links "DVD Player" auf https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&url=/service/beratung/beratung.mb1&mb_v301_ch=ef8cc -> Technik Computer -> DVD-Berater -> HTML-Version bzw. Flash-Version
+
+- "Nicht sichere Objekte" in der Fotoschule unter https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&url=/service/beratung/beratung.mb1&mb_v301_ch=ef8cc -> Technik Computer -> Fotoschule
+
+- Links auf https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&url=/service/beratung/beratung.mb1&mb_v301_ch=ef8cc -> Modeberatung funktionieren nicht
+
+- Viele Pop-Ups
+
+- Kein Link für das animierte Sofa auf https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&nav_id=10051060&mb_v301_ch=96e11
+
+- Man kann nicht mit ähnlichen Produkten vergleichen, z.B. gibt es von einem DVD-Recorder keinen Link auf die DVD-Recorder Übersicht: https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&nav_id=10051060&mb_v301_ch=96e11
+
+- Hinweis auf "Stiftung Warentest", allerdings kein Link: https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&nav_id=10057667&url=/produkt/produkte.mb1&mb_v301_ch=dd137
+
+- "Weniger Produkte auf dieser Seite anzeigen" (z.B. auf https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&nav_id=10057667&url=/produkt/produkte.mb1&mb_v301_ch=dd137 ) wirkt wie ein Link auf eine Seite mit weiteren Produkten
+
+- Keine Information, wie viel oder ob die Kataloge überhaupt etwas kosten: https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&url=/katalog/kat_best.mb1&katalog=haupt&system=&mb_v301_ch=68ef2
+
+- Die komplette Seite wird immer neu geladen wenn die Kategorie gewechselt wird, obwohl der obere Bereich im großen und ganzen immer gleich bleibt
+
+- Dessous in der "Modewelt für Ihn": https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&nav_id=10049508&mb_v301_ch=24a7d
+
+- Die Modeberatung auf https://www.neckermann.at/index2.mb1?mb_f020_id=o291tuWUcCQDPQPsaz7&nav_id=10049508&mb_v301_ch=24a7d findet auch beim 5. Versuch mit jeweils unterschiedlichen Einstellungen "keine passenden Produkte zu Ihren Proportionen und zu dem von Ihnen gewählten Anlass".
+
